@@ -2,7 +2,7 @@
 title: "Political behavior and the emotional citizen: participation and reaction
   in Turkey"
 publication_types:
-  - "0"
+  - "10"
 authors:
   - Cem Mert Dalli
 doi: https://doi.org/10.1080/14683849.2018.1464395
