@@ -10,6 +10,8 @@ authors:
   - Bo Rothstein
   - Natalia Alvarado Pachon & Cem Mert Dalli
 doi: 10.18157/qogoecdjan21
+publication: "University of Gothenburg: The Quality of Government Institute,
+  http://www.qog.pol.gu.se"
 draft: false
 featured: false
 image:
