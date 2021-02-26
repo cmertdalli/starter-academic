@@ -41,3 +41,5 @@ highlight_name: false
 I am a data manager at the[ Quality of Government Institute](https://www.gu.se/en/quality-government), which is based at the Department of Political Science in the University of Gothenburg. 
 
 My research interests include social policy, redistribution of public resources and corruption, democratization and its historical development, and quantitative political methodology. At the QoG Institute, I primarily work on the conduct of QoG Expert Survey and the application of IRT models, as well as the update of the [QoG Compilation Datasets,](https://www.gu.se/en/quality-government/qog-data/data-downloads) including QoG Standard Dataset which received Lijphart, Przeworski, Verba Award for Best Dataset by the APSA Comparative Politics Section in 2009.
+
+Prior to the QoG, I had worked as a research assistant for several research projects, which had been conducted by scholars based at MIT, Lund University, University of Oslo, University of Texas at Austin and Yale University.
