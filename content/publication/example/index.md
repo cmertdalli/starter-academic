@@ -10,14 +10,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Teorell
   - Jan
   - Aksel Sundström
   - Sören Holmberg
   - Bo Rothstein
-  - Natalia Alvarado Pachon &admin
+  - Natalia Alvarado Pachon & admin
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -40,9 +40,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
