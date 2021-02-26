@@ -2,7 +2,6 @@
 title: "Exploring Determinants of Welfare State Development in Post-Communist
   States: A Quantitative Comparative Analysis"
 publication_types:
-  - "1"
   - "7"
 authors:
   - Cem Mert Dalli
