@@ -5,6 +5,7 @@ publication_types:
   - "8"
 authors:
   - Cem Mert Dalli
+doi: http://lup.lub.lu.se/student-papers/record/8992152
 publication: Master's Thesis submitted to Lund University
 abstract: Since the collapse of the communist regimes of the Soviet Union and
   Yugoslavia, the welfare regimes in Central and Eastern Europe have been
