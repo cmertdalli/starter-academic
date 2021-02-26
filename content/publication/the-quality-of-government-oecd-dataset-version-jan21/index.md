@@ -1,7 +1,7 @@
 ---
 title: The Quality of Government OECD Dataset, version Jan21
 publication_types:
-  - "0"
+  - "7"
 authors:
   - Jan Teorell
   - Staffan Kumlin
