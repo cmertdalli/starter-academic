@@ -33,7 +33,7 @@ education:
       year: 2019
     - course: BA in Political Science and International Relations; History
       institution: Bogazici University
-      year: 2003
+      year: 2017
 email: ""
 superuser: true
 highlight_name: false
