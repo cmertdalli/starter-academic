@@ -1,7 +1,7 @@
 ---
 title: The Quality of Government Basic Dataset, version Jan21
 publication_types:
-  - "0"
+  - "7"
 authors:
   - Stefan Dahlberg
   - Aksel Sundström
