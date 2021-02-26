@@ -182,6 +182,9 @@
 
 - id: pub_report
   translation: Report
+  
+- id: pub_dataset
+  translation: Dataset  
 
 - id: pub_book
   translation: Book
