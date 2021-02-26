@@ -9,7 +9,7 @@ authors:
   - Aksel Sundström
   - Sören Holmberg
   - Bo Rothstein
-  - Natalia Alvarado Pachon and CemMertDalli
+  - Natalia Alvarado Pachon and Cem Mert Dalli
 author_notes: []
 publication: "University of Gothenburg: The Quality of Government Institute,
   http://www.qog.pol.gu.se doi:10.18157/qogstdjan21"
