@@ -42,4 +42,4 @@ I am a data manager at the[ Quality of Government Institute](https://www.gu.se/e
 
 My research interests include social policy, redistribution of public resources and corruption, democratization and its historical development, and quantitative political methodology. At the QoG Institute, I primarily work on the conduct of QoG Expert Survey and the application of IRT models, as well as the update of the [QoG Compilation Datasets,](https://www.gu.se/en/quality-government/qog-data/data-downloads) including the award-winning QoG Standard Dataset.
 
-Prior to the QoG Institute, I had worked as a research assistant for several research projects, which had been conducted by scholars based at MIT, Lund University, University of Oslo, University of Texas at Austin and Yale University.
+Prior to the QoG Institute, I had worked as a research assistant for different research projects, which had been conducted by scholars based at MIT, Lund University, University of Oslo, the University of Texas at Austin, and Yale University.
