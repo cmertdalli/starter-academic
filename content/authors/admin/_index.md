@@ -1,77 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Cem Mert Dalli
+role: Data Manager at the QoG Institute
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Social Policy and Economic Redistribution
+  - Corruption and QoG
+  - Democratization
+  - Quantitative Research Methods
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:cem.mert.dalli@gu.se
+  - icon: twitter
+    icon_pack: fab
+    link: mailto:cem.mert.dalli@gu.se
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=9sF3LmEAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/cmertdalli
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/cemmd/
+organizations:
+  - name: University of Gothenburg
+    url: https://www.gu.se/en
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: MSc in Political Science (Welfare Policies and Management)
+      institution: Lund University
+      year: 2019
+    - course: BA in Political Science and International Relations; History
+      institution: Bogazici University
+      year: 2003
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+I am a data manager at the[ Quality of Government Institute](https://www.gu.se/en/quality-government), which is based at the Department of Political Science in the University of Gothenburg. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests include social policy, redistribution of public resources and corruption, democratization and its historical development, and quantitative political methodology. At the QoG Institute, I primarily work on the conduct of QoG Expert Survey and the application of IRT models, as well as the update of the [QoG Compilation Datasets,](https://www.gu.se/en/quality-government/qog-data/data-downloads) including QoG Standard Dataset which received Lijphart, Przeworski, Verba Award for Best Dataset by the APSA Comparative Politics Section in 2009.
