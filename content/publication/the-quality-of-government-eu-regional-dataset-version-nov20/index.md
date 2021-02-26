@@ -1,7 +1,7 @@
 ---
 title: The Quality of Government EU Regional Dataset, version Nov20
 publication_types:
-  - "10"
+  - "Dataset"
 authors:
   - Nicholas Charron
   - Stefan Dahlberg
