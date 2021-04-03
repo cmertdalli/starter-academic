@@ -9,7 +9,7 @@ authors:
   - Aksel Sundström
   - Sofia Axelsson
   - Cem Mert Dalli & Natalia Alvarado Pachon
-publication: QoG Working Paper Series 2021:2
+publication: "University of Gothenburg: QoG Working Paper Series 2021:2"
 draft: false
 featured: false
 image:
