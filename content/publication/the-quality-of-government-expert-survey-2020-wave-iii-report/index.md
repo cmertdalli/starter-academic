@@ -3,7 +3,7 @@ title: "The Quality of Government Expert Survey 2020 (Wave III): Report"
 publication_types:
   - "4"
 authors:
-  - y Marina Nistotskaya
+  - Marina Nistotskaya
   - Stefan Dahlberg
   - Carl Dahlström
   - Aksel Sundström
