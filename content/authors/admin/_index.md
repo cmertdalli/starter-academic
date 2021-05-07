@@ -13,7 +13,7 @@ social:
     link: mailto:cem.mert.dalli@gu.se
   - icon: twitter
     icon_pack: fab
-    link: mailto:cem.mert.dalli@gu.se
+    link: https://twitter.com/Cemmd
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=9sF3LmEAAAAJ
