@@ -38,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a data manager at the[ Quality of Government Institute](https://www.gu.se/en/quality-government), which is based at the Department of Political Science in the University of Gothenburg. 
+I am a data manager at the[ Quality of Government Institute](https://www.gu.se/en/quality-government), which is based at the Department of Political Science in the University of Gothenburg.  I also study towards a master's degree in Applied Data Science at the same university.
 
 My research interests include social policy, redistribution of public resources and corruption, democratization and its historical development, and quantitative political methodology. At the QoG Institute, I primarily work on the conduct of QoG Expert Survey and the application of IRT models, as well as the update of the [QoG Compilation Datasets,](https://www.gu.se/en/quality-government/qog-data/data-downloads) including the award-winning QoG Standard Dataset.
 
